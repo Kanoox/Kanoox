@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanoox</h1>
-<h3 align="center">IT development student</h3>
+<p style="margin: 15px;" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Developper+student;">
+</p>
 
 - 🌱 I’m currently learning **Javascript language**
 
