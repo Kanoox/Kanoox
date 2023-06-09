@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/florentin-binet-4392651b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/florentin-binet-4392651b1/" height="30" width="40" /></a>
-</p>
+
+  
 <img src="https://dcbadge.vercel.app/api/shield/693104115990921257?compact=true&logoColor=white"/>
 
 <h3 align="left">Languages and Tools that interest me:</h3>
