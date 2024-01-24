@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Developper+student;">
 </p>
 
-- 🌱 I’m currently learning **Javascript/Python language**
+- 🌱 I’m currently learning **Javascript / PhP / C# Language.**
 
 - 🤝 I’m looking for help with **finding an IT development contract**
 
