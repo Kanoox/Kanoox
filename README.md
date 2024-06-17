@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Developper+student;">
 </p>
 
-- 🌱 I’m currently learning **Javascript / PhP / C# Language.**
+- 🌱 I’m currently learning ** PhP / C# Language.**
 
-- 🤝 I’m looking for help with **finding an IT development contract**
+- 🤝 If you have any question you **can send a mail.**
 
 - 📫 **florentin.binet.sio@gmail.com**
 
