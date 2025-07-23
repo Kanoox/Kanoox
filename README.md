@@ -22,5 +22,4 @@
 
 ## Commits
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/kanoox/kanoox/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kanoox/kanoox/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+![GitHub Snake dark](https://raw.githubusercontent.com/kanoox/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
