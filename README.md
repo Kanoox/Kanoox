@@ -7,8 +7,6 @@
 
 - 🤝 If you have any question you **can send a mail.**
 
-- 📫 **florentin.binet.sio@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
