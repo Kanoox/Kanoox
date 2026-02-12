@@ -41,8 +41,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-kanoox.vercel.app/api?username=Kanoox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Kanoox's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-kanoox.vercel.app/api/top-langs/?username=Kanoox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-wine-two-7axdol02rs.vercel.app/api?username=Kanoox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Kanoox's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-wine-two-7axdol02rs.vercel.app/api/top-langs/?username=Kanoox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Top Languages" width="48%" />
 
 </div>
 
