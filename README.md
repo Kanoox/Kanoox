@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://dcbadge.vercel.app/api/shield/693104115990921257?compact=true&logoColor=white" alt="Discord Badge"/>
+[![Discord](https://img.shields.io/badge/Discord-Kanoox-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/693104115990921257)
 
 </div>
 
@@ -41,14 +41,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanoox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Kanoox's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanoox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-kanoox.vercel.app/api?username=Kanoox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Kanoox's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-kanoox.vercel.app/api/top-langs/?username=Kanoox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=FFFFFF" alt="Top Languages" width="48%" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanoox&theme=radical&hide_border=true&background=0D1117&ring=E34F26&fire=E34F26&currStreakLabel=E34F26" alt="GitHub Streak" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanoox&theme=radical&hide_border=true&background=0D1117&ring=E34F26&fire=E34F26&currStreakLabel=E34F26" alt="GitHub Streak" width="60%" />
 
 </div>
 
@@ -59,9 +61,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanoox/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanoox/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kanoox/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanoox/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanoox/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kanoox/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -70,6 +72,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kanoox&color=E34F26&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Kanoox&color=E34F26&style=for-the-badge)
 
 </div>
